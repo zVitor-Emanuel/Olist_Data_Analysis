@@ -34,7 +34,7 @@ Utilizei o **Brazilian E-commerce Public Dataset by Olist**, disponível no Kagg
 
 - Python (pandas, numpy, matplotlib, seaborn, plotly, ipywidgets, ipython.display)
 - SQL (ipython-sql e sqlite3)
-- Visualizações com Plotly e Seaborn
+- Visualizações com Plotly, Seaborn e matplotlib
 - Modelagem Relacional com Pandas
 - Scikit-learn para Machine Learning
 - Jupyter Lab
