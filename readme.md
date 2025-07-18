@@ -72,3 +72,6 @@ Utilizado o **Brazilian E-commerce Public Dataset by Olist**, disponível no Kag
 
 ---
 
+### Veja o notebook completo:
+
+📄 [Códigos, insights e visualizações](https://github.com/zVitor-Emanuel/Olist_Data_Analysis/blob/main/case.ipynb)
